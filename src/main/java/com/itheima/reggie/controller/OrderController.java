@@ -13,6 +13,9 @@ public class OrderController {
     @Autowired
     private OrderService orderService;
     //还未写
+    public static void main(String[] args) {
+        System.out.println("");
+    }
 }
 
 
