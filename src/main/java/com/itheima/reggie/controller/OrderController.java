@@ -14,7 +14,7 @@ public class OrderController {
     private OrderService orderService;
     //还未写
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("1");
     }
 }
 
